@@ -34,6 +34,7 @@ public class App {
         collection1.remove("Dinesh"); // removes the element "Dinesh" from collection1
 
         System.out.println(collection1);
+        //few more we need to learn
     }
 
 }
