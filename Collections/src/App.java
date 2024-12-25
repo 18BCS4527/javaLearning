@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class App {
+    //Collection interface examples
     public static void main(String[] args) throws Exception {
 
         // Collection is a interface that provides a set of methods to create and manipulate collections.
